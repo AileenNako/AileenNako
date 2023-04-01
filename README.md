@@ -1,15 +1,11 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1086005757054558249/1086005762079338657/setup.png"/> </a> 
+<img src="https://lanyard.cnrad.dev/api/525663044093870080">
 </p>
 
 <p align="center"> 
   <a href="https://ko-fi.com/aileen34" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
-<p align="center">
-
-<a href="https://dsc.bio/aileen">
-  <img src="https://cdn.discordapp.com/attachments/1004797302478741605/1086016141622775838/image.png" />
 </a>
 
 <p align="center"> 
