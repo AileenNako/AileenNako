@@ -2,15 +2,15 @@
 <img src="https://lanyard.cnrad.dev/api/525663044093870080">
 </p>
 
-<p align="center"> 
-  <a href="https://ko-fi.com/aileen34" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
-</p>
-
 </a>
 
 <p align="center"> 
   <a href="https://discord.com/invite/N5GKkckrns" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1057546737704779867/1086016666175021116/image.png"/> </a> 
 
+</p>
+
+<p align="center"> 
+  <a href="https://ko-fi.com/aileen34" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
 <figure><embed src="https://wakatime.com/share/@Adivise/a411e44c-56cb-4bf2-b9fd-da75e36b48c0.svg"></embed></figure>
