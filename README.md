@@ -5,7 +5,7 @@
 </a>
 
 <p align="center"> 
-  <a href="https://discord.com/invite/N5GKkckrns" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1057546737704779867/1086016666175021116/image.png"/> </a> 
+  <a href="https://discord.com/invite/N5GKkckrns" target="_blank"> <img src="https://telegraph-image-5r1.pages.dev/file/07e213601e3ec66c42392.jpg"/> </a> 
 
 </p>
 
