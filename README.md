@@ -62,29 +62,6 @@
   </table>
 </div>
 
-## Activity
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="420" style="background: linear-gradient(135deg, #0f172a 0%, #111827 50%, #1f2937 100%); border-radius: 18px; padding: 18px;">
-        <h3>GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=AileenNako&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide=contribs,issues,prs&custom_title=Aileen%27s%20GitHub%20Stats&cache_seconds=3600" alt="GitHub stats" />
-      </td>
-      <td align="center" width="420" style="background: linear-gradient(135deg, #0f172a 0%, #111827 50%, #1f2937 100%); border-radius: 18px; padding: 18px;">
-        <h3>Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AileenNako&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="background: linear-gradient(135deg, #0f172a 0%, #111827 50%, #1f2937 100%); border-radius: 18px; padding: 18px;">
-        <h3>GitHub Streak</h3>
-        <img src="https://streak-stats.demolab.com?user=AileenNako&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## Social Media
 
 <div align="center">
